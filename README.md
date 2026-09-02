@@ -10,11 +10,12 @@ torch: 1.11.0
 
 Python: 3.8.10
 
+
+
 ## Dataset
 
 The dataset directory should look like this:
 
-```bash
 data
 ├── IP-28-28-206.h5
 ├── Indian_pines_gt.mat
@@ -24,7 +25,7 @@ data
 ├── Botswana_gt.mat
 └── ...
 
-```
+
 
 ## Usage
 
@@ -32,7 +33,7 @@ Run the following command:
 
 Train on Indian Pines:
 python main.py --dataset indian --data_dir ./data --gt_dir ./data
-```
+
 
 
 ## Acknowledgement
