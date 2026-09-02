@@ -30,7 +30,7 @@ data
 
 Run the following command:
 
-# Train on Indian Pines
+## Train on Indian Pines
 python main.py --dataset indian --data_dir ./data --gt_dir ./data
 ```
 
