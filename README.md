@@ -30,7 +30,11 @@ data
 
 Run the following command:
 
-## Train on Indian Pines
+Train on Indian Pines:
 python main.py --dataset indian --data_dir ./data --gt_dir ./data
 ```
 
+
+## Acknowledgement
+
+Thanks for EMVCC and SCMVC. We build this library based on the EMVCC's codebase and the SCMVC's codebase.
