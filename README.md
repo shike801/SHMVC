@@ -16,6 +16,7 @@ Python: 3.8.10
 
 The dataset directory should look like this:
 
+```
 data
 ├── IP-28-28-206.h5
 ├── Indian_pines_gt.mat
@@ -24,7 +25,7 @@ data
 ├── Bw-28-28-151.h5
 ├── Botswana_gt.mat
 └── ...
-
+```
 
 
 ## Usage
